@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, I'm Nadeera Dilshan
 
-<!--
-**dilshannadeera5519-web/dilshannadeera5519-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Personal Information
+- **Name:** Nadeera Dilshan  
+- **Age:** 20  
+- **Major:** Software Engineering (Undergraduate)
 
-Here are some ideas to get you started:
+## 🎓 About Me
+I am a Software Engineering undergraduate who is passionate about technology, programming, and software development. I enjoy learning new concepts in computer science and improving my problem-solving skills. My academic studies include programming, database systems, and discrete mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Interests
+- Programming and Software Development  
+- Database Design and Management  
+- Learning New Technologies  
+- Building Small Practical Projects  
+
+## 🚀 Goals
+- Become a skilled Software Engineer  
+- Gain strong knowledge in modern programming technologies  
+- Work on real-world software projects and contribute to innovative solutions  
+
+---
+⭐ *Always eager to learn, improve, and grow in the field of technology.*
